@@ -47,6 +47,14 @@ Busco minha primeira oportunidade de estágio na área de TI, preferencialmente 
 
 ## 📫 Contato
 
-LinkedIn: (www.linkedin.com/in/isabellarportela)  
-Email: (isaportela6@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/isabellarportela" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:isaportela6@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 
