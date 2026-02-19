@@ -1,60 +1,58 @@
-# 👋 Olá, eu sou a Isabella Portela
+# 👩‍💻 Isabella Portela
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-🎓 Graduada em Medicina Veterinária  
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Em transição de carreira para a área de Tecnologia  
+Backend Developer em formação | Java & Python  
 
 ---
 
-## 👩‍💻 Sobre mim
+## 🚀 Sobre mim
 
-Sou formada em Medicina Veterinária e atualmente estou em transição de carreira para a área de Tecnologia da Informação.  
-Estou cursando ADS e estudando diariamente lógica de programação, HTML, CSS, JavaScript, Python e Git.
+Graduada em Medicina Veterinária e atualmente em transição de carreira para a área de Tecnologia.
 
-Tenho facilidade com aprendizado contínuo, organização e resolução de problemas — habilidades desenvolvidas durante minha formação anterior e que aplico agora na área de tecnologia.
+Estou cursando Análise e Desenvolvimento de Sistemas e focando meus estudos em desenvolvimento backend com Java e Python.
+
+Tenho perfil analítico, organização e forte capacidade de resolução de problemas — habilidades que aplico agora na programação.
 
 ---
 
-## 🛠 Tecnologias em aprendizado
+## ⚙️ Stack em desenvolvimento
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=red">
+</p>
+
+---
+
+## 📂 Projetos Backend
+
+🔹 Em desenvolvimento  
+🔹 Sistema de cadastro (CRUD)  
+🔹 Projeto em Python para terminal  
+🔹 API REST (em breve)
+
+---
+
+## 📚 Atualmente estudando
 
 - Lógica de Programação
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git e GitHub
+- Estruturas de Dados
+- Programação Orientada a Objetos
+- Git & GitHub
+- Fundamentos de Banco de Dados
 
 ---
 
-## 📂 Projetos
+## 🌑 Contato
 
-🔹 Em desenvolvimento — novos projetos em breve!  
-(Em breve: portfólio pessoal, sistema de cadastro em JS e projeto em Python)
-
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade de estágio na área de TI, preferencialmente em formato remoto ou híbrido, para aplicar meus conhecimentos e continuar evoluindo como desenvolvedora.
-
----
-
-## 📫 Contato
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/isabellarportela" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
   
   <a href="mailto:isaportela6@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
 </p>
-
 
