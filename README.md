@@ -33,6 +33,7 @@ Projeto de terminal para cadastro, busca e remoção de pets desenvolvido para p
 🔹 Sistema de cadastro (CRUD) – em desenvolvimento
 
 🔹 API REST com Python (FastAPI) – em breve
+
 ---
 
 ## 📚 Atualmente estudando
