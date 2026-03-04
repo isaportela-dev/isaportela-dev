@@ -27,11 +27,12 @@ Tenho perfil analítico, organização e forte capacidade de resolução de prob
 
 ## 📂 Projetos Backend
 
-🔹 Em desenvolvimento  
-🔹 Sistema de cadastro (CRUD)  
-🔹 Projeto em Python para terminal  
-🔹 API REST (em breve)
+🔹 [Sistema de Clínica Veterinária (Python CLI)](https://github.com/isaportela-dev/clinica-vet-python)  
+Projeto de terminal para cadastro, busca e remoção de pets desenvolvido para praticar lógica de programação e backend.
 
+🔹 Sistema de cadastro (CRUD) – em desenvolvimento
+
+🔹 API REST com Python (FastAPI) – em breve
 ---
 
 ## 📚 Atualmente estudando
