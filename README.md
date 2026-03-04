@@ -28,12 +28,41 @@ Tenho perfil analítico, organização e forte capacidade de resolução de prob
 
 ## 📂 Projetos Backend
 
-✔ Sistema de clínica veterinária (Python CLI)
+### 🐾 Sistema de Clínica Veterinária (Python CLI)
 
-✔ API REST de clínica veterinária (FastAPI)
+Sistema simples em Python para gerenciamento de pacientes de uma clínica veterinária.
 
-🚧 API com autenticação JWT (em desenvolvimento)
+🔗 https://github.com/isaportela-dev/clinica-veterinaria
 
+---
+
+### 🐶 API Clínica Veterinária (FastAPI)
+
+API REST para gerenciamento de pets de uma clínica veterinária.
+
+Funcionalidades:
+
+- Cadastrar pets
+- Listar pets
+- Buscar pet por ID
+- Remover pet
+
+🔗 https://github.com/isaportela-dev/api-clinica-veterinaria
+
+---
+
+### 🔐 API de Autenticação com JWT (FastAPI)
+
+API REST com autenticação usando JWT.
+
+Funcionalidades:
+
+- Registro de usuário
+- Login
+- Geração de token JWT
+- Rota protegida
+
+🔗 https://github.com/isaportela-dev/api-auth-jwt
 ---
 
 ## 📚 Atualmente estudando
