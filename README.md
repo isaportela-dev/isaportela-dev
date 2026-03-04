@@ -21,6 +21,7 @@ Tenho perfil analítico, organização e forte capacidade de resolução de prob
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=red">
+  <img src="https://img.shields.io/badge/API-0D1117?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
 ---
