@@ -63,6 +63,7 @@ Funcionalidades:
 - Rota protegida
 
 🔗 https://github.com/isaportela-dev/api-auth-jwt
+
 ---
 
 ## 📚 Atualmente estudando
