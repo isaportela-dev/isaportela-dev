@@ -29,8 +29,11 @@ Tenho perfil analítico, organização e forte capacidade de resolução de prob
 ## 📂 Projetos Backend
 
 ✔ Sistema de clínica veterinária (Python CLI)
+
 ✔ API REST de clínica veterinária (FastAPI)
+
 🚧 API com autenticação JWT (em desenvolvimento)
+
 ---
 
 ## 📚 Atualmente estudando
