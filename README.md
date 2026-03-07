@@ -29,6 +29,7 @@ Atualmente estudando Java, Spring Boot e desenvolvimento de APIs REST, enquanto 
 
 ## 📂 Projetos Backend em Destaque
 
+
 ## ☕ Task Manager API (Spring Boot)
 
 API REST para gerenciamento de tarefas desenvolvida com Java, Spring Boot e Spring Data JPA.
