@@ -12,6 +12,7 @@ Backend Developer em formação | Python • FastAPI • Java
 Atualmente estudando **Java, Spring Boot e APIs REST**, enquanto desenvolvo projetos para consolidar conhecimentos em backend.
 
 🚀 Buscando minha primeira oportunidade na área de tecnologia.
+
 ---
 
 ## ⚙️ Stack em desenvolvimento
