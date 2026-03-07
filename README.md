@@ -1,6 +1,6 @@
 # 👩‍💻 Isabella Portela
 
-Backend Developer em formação | Python • FastAPI • Java 
+Backend Developer em formação | Java • Spring Boot • Python • APIs REST
 
 ---
 
