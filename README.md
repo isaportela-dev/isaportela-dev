@@ -6,12 +6,12 @@ Backend Developer em formação | Python • FastAPI • Java
 
 ## 🚀 Sobre mim
 
-Graduada em Medicina Veterinária e atualmente em transição de carreira para a área de Tecnologia.
+🎓 Formada em Medicina Veterinária, cursando Análise e Desenvolvimento de Sistemas  
+💻 Em transição de carreira para **Desenvolvimento Backend**
 
-Estou cursando Análise e Desenvolvimento de Sistemas e focando meus estudos em desenvolvimento backend com Java e Python.
+Atualmente estudando **Java, Spring Boot e APIs REST**, enquanto desenvolvo projetos para consolidar conhecimentos em backend.
 
-Tenho perfil analítico, organização e forte capacidade de resolução de problemas — habilidades que aplico agora na programação.
-
+🚀 Buscando minha primeira oportunidade na área de tecnologia.
 ---
 
 ## ⚙️ Stack em desenvolvimento
@@ -28,6 +28,17 @@ Tenho perfil analítico, organização e forte capacidade de resolução de prob
 
 ## 📂 Projetos Backend
 
+## ☕ Task Manager API (Spring Boot)
+
+API REST para gerenciamento de tarefas desenvolvida com **Java + Spring Boot**.
+
+Funcionalidades:
+- Criar tarefa | Listar tarefas | Buscar tarefa por ID | Atualizar tarefa | Deletar tarefa
+
+🔗 https://github.com/isaportela-dev/task-manager-api
+
+---
+
 ### 🐾 Sistema de Clínica Veterinária (Python CLI)
 
 Sistema simples em Python para gerenciamento de pacientes de uma clínica veterinária.
@@ -41,11 +52,7 @@ Sistema simples em Python para gerenciamento de pacientes de uma clínica veteri
 API REST para gerenciamento de pets de uma clínica veterinária.
 
 Funcionalidades:
-
-- Cadastrar pets
-- Listar pets
-- Buscar pet por ID
-- Remover pet
+- Cadastrar pets | Listar pets | Buscar pet por ID | Remover pet
 
 🔗 https://github.com/isaportela-dev/api-clinica-veterinaria
 
@@ -56,11 +63,7 @@ Funcionalidades:
 API REST com autenticação usando JWT.
 
 Funcionalidades:
-
-- Registro de usuário
-- Login
-- Geração de token JWT
-- Rota protegida
+- Registro de usuário | Login | Geração de token JWT | Rota protegida
 
 🔗 https://github.com/isaportela-dev/api-auth-jwt
 
@@ -68,11 +71,12 @@ Funcionalidades:
 
 ## 📚 Atualmente estudando
 
-- Lógica de Programação
+- Java e Spring Boot
 - Estruturas de Dados
 - Programação Orientada a Objetos
+- APIs REST
+- Banco de Dados
 - Git & GitHub
-- Fundamentos de Banco de Dados
 
 ---
 
