@@ -31,7 +31,7 @@ Atualmente estudando Java, Spring Boot e desenvolvimento de APIs REST, enquanto 
 
 ## ☕ Task Manager API (Spring Boot)
 
-API REST para gerenciamento de tarefas desenvolvida com **Java + Spring Boot**.
+API REST para gerenciamento de tarefas desenvolvida com Java, Spring Boot e Spring Data JPA.
 
 Funcionalidades:
 - Criar tarefa | Listar tarefas | Buscar tarefa por ID | Atualizar tarefa | Deletar tarefa
