@@ -27,7 +27,7 @@ Atualmente estudando Java, Spring Boot e desenvolvimento de APIs REST, enquanto 
 
 ---
 
-## 📂 Projetos Backend
+## 📂 Projetos Backend em Destaque
 
 ## ☕ Task Manager API (Spring Boot)
 
