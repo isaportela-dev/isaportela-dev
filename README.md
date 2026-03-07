@@ -9,7 +9,7 @@ Backend Developer em formação | Java • Spring Boot • Python • APIs REST
 🎓 Formada em Medicina Veterinária, cursando Análise e Desenvolvimento de Sistemas  
 💻 Em transição de carreira para **Desenvolvimento Backend**
 
-Atualmente estudando **Java, Spring Boot e APIs REST**, enquanto desenvolvo projetos para consolidar conhecimentos em backend.
+Atualmente estudando Java, Spring Boot e desenvolvimento de APIs REST, enquanto desenvolvo projetos práticos para consolidar conhecimentos em backend.
 
 🚀 Buscando minha primeira oportunidade na área de tecnologia.
 
