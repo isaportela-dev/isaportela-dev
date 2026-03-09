@@ -41,11 +41,14 @@ Funcionalidades:
 
 ---
 
-### 🐾 Sistema de Clínica Veterinária (Python CLI)
+### 🔐 API de Autenticação com JWT (FastAPI)
 
-Sistema simples em Python para gerenciamento de pacientes de uma clínica veterinária.
+API REST com autenticação usando JWT.
 
-🔗 https://github.com/isaportela-dev/clinica-veterinaria
+Funcionalidades:
+- Registro de usuário | Login | Geração de token JWT | Rota protegida
+
+🔗 https://github.com/isaportela-dev/api-auth-jwt
 
 ---
 
@@ -60,14 +63,11 @@ Funcionalidades:
 
 ---
 
-### 🔐 API de Autenticação com JWT (FastAPI)
+### 🐾 Sistema de Clínica Veterinária (Python CLI)
 
-API REST com autenticação usando JWT.
+Sistema simples em Python para gerenciamento de pacientes de uma clínica veterinária.
 
-Funcionalidades:
-- Registro de usuário | Login | Geração de token JWT | Rota protegida
-
-🔗 https://github.com/isaportela-dev/api-auth-jwt
+🔗 https://github.com/isaportela-dev/clinica-veterinaria
 
 ---
 
