@@ -15,6 +15,7 @@ Backend Developer in training | Java • Spring Boot • Python • REST APIs
 📚 Currently building practical backend projects to strengthen my backend development skills.
 
 🎯 Looking for my first opportunity in technology.
+
 ---
 
 ## ⚙️ Tech Stack
