@@ -1,21 +1,23 @@
 # 👩‍💻 Isabella Portela
 
-Backend Developer em formação | Java • Spring Boot • Python • APIs REST
+Backend Developer in training | Java • Spring Boot • Python • REST APIs
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-🎓 Formada em Medicina Veterinária, cursando Análise e Desenvolvimento de Sistemas  
-💻 Em transição de carreira para **Desenvolvimento Backend**
+🎓 Graduated in Veterinary Medicine and currently studying Systems Analysis and Development (ADS).
 
-Atualmente estudando Java, Spring Boot e desenvolvimento de APIs REST, enquanto desenvolvo projetos práticos para consolidar conhecimentos em backend.
+💻 Transitioning my career to Backend Development, focusing on Java, Spring Boot, Python and REST API development.
 
-🚀 Buscando minha primeira oportunidade na área de tecnologia.
+🤖 Experienced in using Artificial Intelligence tools to support software development, including code generation, debugging, documentation improvement, and productivity optimization.
 
+📚 Currently building practical backend projects to strengthen my backend development skills.
+
+🎯 Looking for my first opportunity in technology.
 ---
 
-## ⚙️ Stack em desenvolvimento
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -27,58 +29,86 @@ Atualmente estudando Java, Spring Boot e desenvolvimento de APIs REST, enquanto 
 
 ---
 
-## 📂 Projetos Backend em Destaque
+## 📂 Backend Projects
 
+### 📌 Task Manager API (Spring Boot)
 
-### ☕ Task Manager API (Spring Boot)
+REST API for task management built with Java, Spring Boot and Spring Data JPA.
 
-API REST para gerenciamento de tarefas desenvolvida com Java, Spring Boot e Spring Data JPA.
+Features
 
-Funcionalidades:
-- Criar tarefa | Listar tarefas | Buscar tarefa por ID | Atualizar tarefa | Deletar tarefa
+Create tasks
+
+List tasks
+
+Get task by ID
+
+Update tasks
+
+Delete tasks
 
 🔗 https://github.com/isaportela-dev/task-manager-api
 
 ---
 
-### 🔐 API de Autenticação com JWT (FastAPI)
+### 🔐 Authentication API with JWT (FastAPI)
 
-API REST com autenticação usando JWT.
+REST API implementing JWT authentication.
 
-Funcionalidades:
-- Registro de usuário | Login | Geração de token JWT | Rota protegida
+Features
+
+User registration
+
+Login
+
+Token generation (JWT)
+
+Protected route
 
 🔗 https://github.com/isaportela-dev/api-auth-jwt
 
 ---
 
-### 🐶 API Clínica Veterinária (FastAPI)
+### 🐾 Vet Clinic API (FastAPI)
 
-API REST para gerenciamento de pets de uma clínica veterinária.
+REST API for managing pets in a veterinary clinic.
 
-Funcionalidades:
-- Cadastrar pets | Listar pets | Buscar pet por ID | Remover pet
+Features
 
-🔗 https://github.com/isaportela-dev/api-clinica-veterinaria
+Create pets
+
+List pets
+
+Get pet by ID
+
+Delete pet
+
+🔗 https://github.com/isaportela-dev/vet-clinic-api
+---
+
+### 🖥 Vet Clinic System (Python CLI)
+
+Simple Python CLI system for managing veterinary clinic patients.
+
+🔗 https://github.com/isaportela-dev/clinica-veterinariaa
 
 ---
 
-### 🐾 Sistema de Clínica Veterinária (Python CLI)
+## 📚 Currently Learning
 
-Sistema simples em Python para gerenciamento de pacientes de uma clínica veterinária.
+Java + Spring Boot
 
-🔗 https://github.com/isaportela-dev/clinica-veterinaria
+Data Structures
 
----
+Object-Oriented Programming
 
-## 📚 Atualmente estudando
+REST API development
 
-- Java e Spring Boot
-- Estruturas de Dados
-- Programação Orientada a Objetos
-- APIs REST
-- Banco de Dados
-- Git & GitHub
+Databases
+
+Git & GitHub
+
+AI-assisted development workflows
 
 ---
 
