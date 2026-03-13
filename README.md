@@ -92,7 +92,7 @@ Delete pet
 
 Simple Python CLI system for managing veterinary clinic patients.
 
-🔗 https://github.com/isaportela-dev/clinica-veterinariaa
+🔗 [https://github.com/isaportela-dev/vet-clinic-system](https://github.com/isaportela-dev/vet-clinic-system.git)
 
 ---
 
