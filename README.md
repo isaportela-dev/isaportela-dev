@@ -85,6 +85,7 @@ Get pet by ID
 Delete pet
 
 🔗 https://github.com/isaportela-dev/vet-clinic-api
+
 ---
 
 ### 🖥 Vet Clinic System (Python CLI)
