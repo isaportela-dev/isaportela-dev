@@ -1,6 +1,7 @@
 # 👩‍💻 Isabella Portela
 
 Backend-focused Full-Stack Developer building REST APIs with Java (Spring Boot) and Python, with simple frontend integrations using HTML, CSS and JavaScript.
+
 ---
 
 ## 🚀 About Me
