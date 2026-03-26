@@ -1,6 +1,7 @@
 # 👩‍💻 Isabella Portela
 
-**Backend-focused Full-Stack Developer building REST APIs with Java (Spring Boot) and Python, with simple frontend integrations using HTML, CSS and JavaScript.
+**Backend-focused Full-Stack Developer** building REST APIs with Java (Spring Boot) and Python, with simple frontend integrations using HTML, CSS and JavaScript.
+
 **Desenvolvedora Full Stack com foco em Backend**, construindo APIs REST com Java (Spring Boot) e Python, com integrações frontend usando HTML, CSS e JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabellaportela)
