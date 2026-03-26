@@ -15,27 +15,22 @@
 ## 🚀 About Me
 
 🎓 Graduated in Veterinary Medicine, currently studying Systems Analysis and Development (ADS).
-
 🎓 Graduada em Medicina Veterinária, cursando Análise e Desenvolvimento de Sistemas (ADS).
 
 
 💻 Transitioning my career to Backend Development, focusing on Java, Spring Boot, Python and REST API development.
-
 💻 Em transição de carreira para Desenvolvimento Backend, com foco em Java, Spring Boot, Python e APIs REST.
 
 
 🚀 Experienced in building full stack applications with production deployments, JWT authentication, and RESTful API design.
-
 🚀 Experiente em aplicações full stack com deploy em produção, autenticação JWT e design de APIs REST.
 
 
 🤖 Experienced in using AI tools to support software development, including code generation, debugging, documentation and productivity optimization.
-
 🤖 Experiente no uso de IA para apoio ao desenvolvimento, incluindo geração de código, debugging, documentação e otimização de produtividade.
 
 
 🔍 Looking for my first opportunity in technology.
-
 🔍 Buscando minha primeira oportunidade em tecnologia.
 
 ---
