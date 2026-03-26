@@ -21,15 +21,12 @@
 💻 Em transição de carreira para Desenvolvimento Backend, com foco em Java, Spring Boot, Python e APIs REST.
 
 🚀 Experienced in building full stack applications with production deployments, JWT authentication, and RESTful API design.
-
 🚀 Experiente em aplicações full stack com deploy em produção, autenticação JWT e design de APIs REST.
 
 🤖 Experienced in using AI tools to support software development, including code generation, debugging, documentation and productivity optimization.
-
 🤖 Experiente no uso de IA para apoio ao desenvolvimento, incluindo geração de código, debugging, documentação e otimização de produtividade.
 
 🔍 Looking for my first opportunity in technology.
-
 🔍 Buscando minha primeira oportunidade em tecnologia.
 
 ---
