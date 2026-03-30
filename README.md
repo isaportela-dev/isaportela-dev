@@ -40,6 +40,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -76,12 +79,15 @@ REST authentication API with user registration, login and JWT token generation.
 API REST de autenticação com registro de usuários, login e geração de token JWT.
 
 - OAuth2 password flow com rotas protegidas
+- Layered architecture (routers, services, schemas, models)
+- PostgreSQL database with SQLAlchemy ORM
+- Containerized with Docker and docker-compose
 - Documentação automática via Swagger/OpenAPI
 
 ---
 
 ## 📚 Currently Learning
 
-- MySQL / PostgreSQL
-- Docker
-- CI/CD & GitHub Actions
+- React
+- Docker advanced (CI/CD & GitHub Actions)
+- Power BI
