@@ -137,7 +137,7 @@ Aplicação full stack de gerenciamento de tarefas com frontend responsivo integ
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaportela-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaportela-dev&layout=compact&langs_count=8&theme=github_dark"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isaportela-dev&theme=github-dark"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaportela-dev&theme=github_dark"/>
 </p>
