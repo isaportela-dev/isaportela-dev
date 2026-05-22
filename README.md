@@ -54,13 +54,13 @@
 ## 💡 Core Skills
 
 ✔ REST APIs Development
-✔ Authentication & Authorization
-✔ Relational Database Design
-✔ Backend Architecture
-✔ Docker Containerization
-✔ Data Analysis with Pandas
-✔ API Documentation
-✔ SQL Optimization
+<br>✔ Authentication & Authorization
+<br>✔ Relational Database Design
+<br>✔ Backend Architecture
+<br>✔ Docker Containerization
+<br>✔ Data Analysis with Pandas
+<br>✔ API Documentation
+<br>✔ SQL Optimization
 
 ---
 
