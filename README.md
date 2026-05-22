@@ -1,8 +1,8 @@
 # 👩‍💻 Isabella Portela
 
-**Backend-focused Full-Stack Developer** building REST APIs with Java (Spring Boot) and Python, with simple frontend integrations using HTML, CSS and JavaScript.
+**Backend Developer | Java • Spring Boot • Python • FastAPI** building REST APIs with Java (Spring Boot) and Python, integrating backend systems with modern web interfaces.
 
-**Desenvolvedora Full Stack com foco em Backend**, construindo APIs REST com Java (Spring Boot) e Python, com integrações frontend usando HTML, CSS e JavaScript.
+**Desenvolvedora Backend | Java • Spring Boot • Python • FastAPI**, Construindo APIs REST com Java (Spring Boot) e Python, com foco em sistemas backend, bancos de dados e aplicações orientadas a dados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabellarportela)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isaportela-dev)
@@ -17,8 +17,8 @@
 🎓 Graduated in Veterinary Medicine, currently studying Systems Analysis and Development (ADS).
 <br>🎓 Graduada em Medicina Veterinária, cursando Análise e Desenvolvimento de Sistemas (ADS).
 
-💻 Transitioning my career to Backend Development, focusing on Java, Spring Boot, Python and REST API development.
-<br>💻 Em transição de carreira para Desenvolvimento Backend, com foco em Java, Spring Boot, Python e APIs REST.
+💻 Backend developer focused on building scalable REST APIs, backend systems and data-driven applications using Java and Python.
+<br>💻 Desenvolvedora backend focada em APIs REST escaláveis, sistemas backend e aplicações orientadas a dados com Java e Python.
 
 🚀 Experienced in building full stack applications with production deployments, JWT authentication, and RESTful API design.
 <br>🚀 Experiente em aplicações full stack com deploy em produção, autenticação JWT e design de APIs REST.
@@ -26,8 +26,8 @@
 🤖 Experienced in using AI tools to support software development, including code generation, debugging, documentation and productivity optimization.
 <br>🤖 Experiente no uso de IA para apoio ao desenvolvimento, incluindo geração de código, debugging, documentação e otimização de produtividade.
 
-🔍 Looking for my first opportunity in technology.
-<br>🔍 Buscando minha primeira oportunidade em tecnologia.
+🎯 Seeking backend software engineering opportunities focused on APIs, backend systems and data-driven applications.
+<br>🎯 Buscando oportunidades em desenvolvimento backend com foco em APIs, sistemas backend e aplicações orientadas a dados.
 
 ---
 
@@ -51,7 +51,70 @@
 
 ---
 
+## 💡 Core Skills
+
+✔ REST APIs Development
+✔ Authentication & Authorization
+✔ Relational Database Design
+✔ Backend Architecture
+✔ Docker Containerization
+✔ Data Analysis with Pandas
+✔ API Documentation
+✔ SQL Optimization
+
+---
+
 ## 🏆 Featured Projects / Projetos em Destaque
+
+### 📊 [Sales Analytics API](https://github.com/isaportela-dev/sales-analytics-api)
+
+Backend API simulating CRM and sales operations with analytics and ETL workflows.
+
+Tech stack:
+FastAPI • PostgreSQL • Pandas • Docker
+
+Features:
+
+- Complete CRUD
+- ETL processing
+- KPI generation
+- Analytics with Pandas
+- Dockerized environment
+- Dashboard integration
+- Swagger/OpenAPI
+
+Deploy:
+
+🔗 Backend API
+https://sales-analytics-api-3zfp.onrender.com/docs
+
+🔗 Dashboard
+https://guileless-capybara-4e48ba.netlify.app
+
+Repository:
+https://github.com/isaportela-dev/sales-analytics-api
+
+---
+
+### 🔐 [JWT Authentication API](https://github.com/isaportela-dev/api-auth-jwt) — Python / FastAPI
+REST authentication API with user registration, login and JWT token generation.
+API REST de autenticação com registro de usuários, login e geração de token JWT.
+
+Features:
+
+- JWT authentication
+- Refresh tokens
+- RBAC
+- OAuth2 password flow
+- Password hashing
+- Rate limiting
+- Security headers
+- OWASP practices
+- PostgreSQL + SQLAlchemy
+- Docker
+- Layered architecture
+
+---
 
 ### ✅ [Task Manager API](https://github.com/isaportela-dev/task-manager-api) — Java / Spring Boot + HTML/CSS/JS
 Full stack task management application with integrated responsive frontend.
@@ -64,30 +127,15 @@ Aplicação full stack de gerenciamento de tarefas com frontend responsivo integ
 
 ---
 
-### 🔍 [Qualis Consulta](https://github.com/isaportela-dev/qualis-consulta) — Python / FastAPI + Pandas
-REST API for querying CAPES academic journals from an Excel dataset.
-API REST para consulta de periódicos acadêmicos CAPES a partir de dataset Excel.
+## 📚 Currently Improving
 
-- Busca por ISSN, área de avaliação e estrato com filtro combinado
-- Visualização dos resultados em interface web
-- Código modularizado com separação de responsabilidades
+- CI/CD and GitHub Actions
+- Docker ecosystem
+- Backend architecture patterns
+- Power BI and Data Visualization
 
----
+## 📈 GitHub Stats
 
-### 🔐 [JWT Authentication API](https://github.com/isaportela-dev/api-auth-jwt) — Python / FastAPI
-REST authentication API with user registration, login and JWT token generation.
-API REST de autenticação com registro de usuários, login e geração de token JWT.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaportela-dev&show_icons=true&theme=tokyonight)
 
-- OAuth2 password flow com rotas protegidas
-- Layered architecture (routers, services, schemas, models)
-- PostgreSQL database with SQLAlchemy ORM
-- Containerized with Docker and docker-compose
-- Documentação automática via Swagger/OpenAPI
-
----
-
-## 📚 Currently Learning
-
-- React
-- Docker advanced (CI/CD & GitHub Actions)
-- Power BI
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaportela-dev&layout=compact&theme=tokyonight)
